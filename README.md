@@ -1,4 +1,4 @@
 # Treinando GitHub
 
-![./LogoPrefeitura.png](Timbre)
+![./LogoPrefeitura.jpg](Timbre)
 Este repositório é de treinamento
