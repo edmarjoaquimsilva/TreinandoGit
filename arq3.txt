@@ -1,4 +1,10 @@
 arquivo 3
 exercicio github
+<<<<<<< HEAD
 crei nova pasta para testar
 novo arquivo
+planeta terra
+=======
+novo arquivo
+>>>>>>> parent of d8be33a (enviando um novo arquivo com correção da imagem)
+planeta terra
