@@ -2,3 +2,6 @@ arquivo 1 de teste enviado primeiro
 editei essa linha para treinar o git pull
 já criei um segundo arquivo para enviar
 primeira linha branch no master
+
+Rey
+Finn
